@@ -10,6 +10,11 @@
     padding: 1rem;
     background-image: url(https://media.istockphoto.com/id/1078987058/tr/vekt%C3%B6r/modern-soyut-arka-plan-siyah-zemin-%C3%BCzerine-ye%C5%9Fil-web-sitesi-header-tasar%C4%B1m%C4%B1-i%C3%A7in-%C3%BCstbilgi.jpg?s=170667a&w=0&k=20&c=pNBCXFzNgUl141U9qyujfrs1AAME8CCUR844pXU9wkg=);
 }
+.header-right{
+  display: flex;
+  align-items: center;
+  color: #fff;
+}
   
   .logo {
     height: 100px;
