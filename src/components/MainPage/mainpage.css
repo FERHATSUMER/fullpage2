@@ -1,0 +1,18 @@
+.inclusive{
+    background-image: url(https://1.bp.blogspot.com/-Ch05JvXLM_M/WFg2gS4SRDI/AAAAAAAANls/hAjSrFATdMM5ZiURE0jr2JbPyCK0TSanACLcB/s1600/black-background-2.jpg);
+height: 200vh;
+
+}
+
+.card-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+    padding: 10px;
+}
+
+.card-container>div {
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+}
