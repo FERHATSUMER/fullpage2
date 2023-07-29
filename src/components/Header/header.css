@@ -4,20 +4,26 @@
   }
   
   .header-container {
+    height: 55px;
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 1rem;
-    background-image: url(https://media.istockphoto.com/id/1078987058/tr/vekt%C3%B6r/modern-soyut-arka-plan-siyah-zemin-%C3%BCzerine-ye%C5%9Fil-web-sitesi-header-tasar%C4%B1m%C4%B1-i%C3%A7in-%C3%BCstbilgi.jpg?s=170667a&w=0&k=20&c=pNBCXFzNgUl141U9qyujfrs1AAME8CCUR844pXU9wkg=);
-}
+    background-color: #242323;
+  }
 .header-right{
   display: flex;
   align-items: center;
   color: #fff;
+  gap: 10px;
 }
-  
+  .header-title{
+    margin-top: 5px;
+    font-size: 20px;
+    text-transform: uppercase;
+  }
   .logo {
-    height: 100px;
+    height: 60px;
     border-radius: 50%;
   }
   

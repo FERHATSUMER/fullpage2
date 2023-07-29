@@ -13,7 +13,7 @@ const Header = () => {
           src='https://media.licdn.com/dms/image/C560BAQG50mwENt9gSQ/company-logo_400_400/0/1632727910976?e=2147483647&v=beta&t=0w36fnGQ37PWTm253SLL0PVTr2ziC_mzcyO71DlLIDc'
           alt='logo'
         />
-        <h1> Ferhat Sümer</h1>
+        <h1 className='header-title'> Ferhat Sümer</h1>
       </div>
 
       <nav className='nav'>
